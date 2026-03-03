@@ -1,0 +1,4 @@
+Problem.dat_39.txt: Total Dominating Vertices = 405.0
+Problem.dat_4.txt: Total Dominating Vertices = 101.0
+Problem.dat_40.txt: Total Dominating Vertices = 8390.0
+Problem.dat_41.txt: Total Dominating Vertices = 4553.0

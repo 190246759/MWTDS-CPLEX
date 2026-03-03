@@ -1,0 +1,217 @@
+Problem.dat_1.txt: Total Dominating Vertices = 504.0
+Problem.dat_2.txt: Total Dominating Vertices = 312.0
+Problem.dat_3.txt: Total Dominating Vertices = 90.0
+Problem.dat_4.txt: Total Dominating Vertices = 24.0
+Problem.dat_5.txt: Total Dominating Vertices = 14.0
+Problem.dat_6.txt: Total Dominating Vertices = 9.0
+Problem.dat_7.txt: Total Dominating Vertices = 2161.0
+Problem.dat_8.txt: Total Dominating Vertices = 775.0
+Problem.dat_9.txt: Total Dominating Vertices = 354.0
+Problem.dat_10.txt: Total Dominating Vertices = 175.0
+Problem.dat_11.txt: Total Dominating Vertices = 113.0
+Problem.dat_12.txt: Total Dominating Vertices = 32.0
+Problem.dat_13.txt: Total Dominating Vertices = 4820.0
+Problem.dat_14.txt: Total Dominating Vertices = 2538.0
+Problem.dat_15.txt: Total Dominating Vertices = 1075.0
+Problem.dat_16.txt: Total Dominating Vertices = 620.0
+Problem.dat_17.txt: Total Dominating Vertices = 404.0
+Problem.dat_18.txt: Total Dominating Vertices = 167.0
+Problem.dat_19.txt: Total Dominating Vertices = 75.0
+Problem.dat_20.txt: Total Dominating Vertices = 6390.0
+Problem.dat_21.txt: Total Dominating Vertices = 3082.0
+Problem.dat_22.txt: Total Dominating Vertices = 1861.0
+Problem.dat_23.txt: Total Dominating Vertices = 1062.0
+Problem.dat_24.txt: Total Dominating Vertices = 440.0
+Problem.dat_25.txt: Total Dominating Vertices = 220.0
+Problem.dat_26.txt: Total Dominating Vertices = 8375.0
+Problem.dat_27.txt: Total Dominating Vertices = 4174.0
+Problem.dat_28.txt: Total Dominating Vertices = 2356.0
+Problem.dat_29.txt: Total Dominating Vertices = 1490.0
+Problem.dat_30.txt: Total Dominating Vertices = 615.0
+Problem.dat_31.txt: Total Dominating Vertices = 306.0
+Problem.dat_32.txt: Total Dominating Vertices = 113.0
+Problem.dat_33.txt: Total Dominating Vertices = 9767.0
+Problem.dat_34.txt: Total Dominating Vertices = 5898.0
+Problem.dat_35.txt: Total Dominating Vertices = 3827.0
+Problem.dat_36.txt: Total Dominating Vertices = 2296.0
+Problem.dat_37.txt: Total Dominating Vertices = 957.0
+Problem.dat_38.txt: Total Dominating Vertices = 513.0
+Problem.dat_39.txt: Total Dominating Vertices = 228.0
+Problem.dat_40.txt: Total Dominating Vertices = 18724.0
+Problem.dat_41.txt: Total Dominating Vertices = 8283.0
+Problem.dat_42.txt: Total Dominating Vertices = 3309.0
+Problem.dat_43.txt: Total Dominating Vertices = 894.0
+Problem.dat_44.txt: Total Dominating Vertices = 302.0
+Problem.dat_45.txt: Total Dominating Vertices = 33085.0
+Problem.dat_46.txt: Total Dominating Vertices = 27583.0
+Problem.dat_47.txt: Total Dominating Vertices = 12492.0
+Problem.dat_48.txt: Total Dominating Vertices = 3665.0
+Problem.dat_49.txt: Total Dominating Vertices = 1317.0
+Problem.dat_50.txt: Total Dominating Vertices = 41265.0
+Problem.dat_51.txt: Total Dominating Vertices = 6105.0
+Problem.dat_52.txt: Total Dominating Vertices = 2243.0
+Problem.dat_53.txt: Total Dominating Vertices = 1288.0
+Problem.dat_54.txt: Total Dominating Vertices = 823.0
+Problem.dat_1.txt: Total Dominating Vertices = 504.0, Solve Time = 0.0020 seconds
+Problem.dat_10.txt: Total Dominating Vertices = 175.0, Solve Time = 0.0440 seconds
+Problem.dat_11.txt: Total Dominating Vertices = 113.0, Solve Time = 0.0350 seconds
+Problem.dat_12.txt: Total Dominating Vertices = 32.0, Solve Time = 0.0030 seconds
+Problem.dat_13.txt: Total Dominating Vertices = 4820.0, Solve Time = 0.0020 seconds
+Problem.dat_14.txt: Total Dominating Vertices = 2538.0, Solve Time = 0.0030 seconds
+Problem.dat_15.txt: Total Dominating Vertices = 1075.0, Solve Time = 0.0030 seconds
+Problem.dat_16.txt: Total Dominating Vertices = 620.0, Solve Time = 0.0180 seconds
+Problem.dat_17.txt: Total Dominating Vertices = 404.0, Solve Time = 0.0060 seconds
+Problem.dat_18.txt: Total Dominating Vertices = 167.0, Solve Time = 0.0570 seconds
+Problem.dat_19.txt: Total Dominating Vertices = 75.0, Solve Time = 0.0070 seconds
+Problem.dat_2.txt: Total Dominating Vertices = 312.0, Solve Time = 0.0050 seconds
+Problem.dat_20.txt: Total Dominating Vertices = 6390.0, Solve Time = 0.0030 seconds
+Problem.dat_21.txt: Total Dominating Vertices = 3082.0, Solve Time = 0.0080 seconds
+Problem.dat_22.txt: Total Dominating Vertices = 1861.0, Solve Time = 0.0049 seconds
+Problem.dat_23.txt: Total Dominating Vertices = 1062.0, Solve Time = 0.0040 seconds
+Problem.dat_24.txt: Total Dominating Vertices = 440.0, Solve Time = 0.0964 seconds
+Problem.dat_25.txt: Total Dominating Vertices = 220.0, Solve Time = 0.0329 seconds
+Problem.dat_26.txt: Total Dominating Vertices = 8375.0, Solve Time = 0.0040 seconds
+Problem.dat_27.txt: Total Dominating Vertices = 4174.0, Solve Time = 0.0040 seconds
+Problem.dat_28.txt: Total Dominating Vertices = 2356.0, Solve Time = 0.0047 seconds
+Problem.dat_29.txt: Total Dominating Vertices = 1490.0, Solve Time = 0.0051 seconds
+Problem.dat_3.txt: Total Dominating Vertices = 90.0, Solve Time = 0.0020 seconds
+Problem.dat_30.txt: Total Dominating Vertices = 615.0, Solve Time = 0.0990 seconds
+Problem.dat_31.txt: Total Dominating Vertices = 306.0, Solve Time = 0.1442 seconds
+Problem.dat_32.txt: Total Dominating Vertices = 113.0, Solve Time = 0.1389 seconds
+Problem.dat_33.txt: Total Dominating Vertices = 9767.0, Solve Time = 0.0070 seconds
+Problem.dat_34.txt: Total Dominating Vertices = 5898.0, Solve Time = 0.0090 seconds
+Problem.dat_35.txt: Total Dominating Vertices = 3827.0, Solve Time = 0.0050 seconds
+Problem.dat_36.txt: Total Dominating Vertices = 2296.0, Solve Time = 0.0100 seconds
+Problem.dat_37.txt: Total Dominating Vertices = 957.0, Solve Time = 0.1540 seconds
+Problem.dat_38.txt: Total Dominating Vertices = 513.0, Solve Time = 0.1476 seconds
+Problem.dat_39.txt: Total Dominating Vertices = 228.0, Solve Time = 0.1534 seconds
+Problem.dat_4.txt: Total Dominating Vertices = 24.0, Solve Time = 0.0039 seconds
+Problem.dat_40.txt: Total Dominating Vertices = 18724.0, Solve Time = 0.0180 seconds
+Problem.dat_41.txt: Total Dominating Vertices = 8283.0, Solve Time = 0.0050 seconds
+Problem.dat_42.txt: Total Dominating Vertices = 3309.0, Solve Time = 0.2190 seconds
+Problem.dat_43.txt: Total Dominating Vertices = 894.0, Solve Time = 0.6131 seconds
+Problem.dat_44.txt: Total Dominating Vertices = 302.0, Solve Time = 0.7842 seconds
+Problem.dat_45.txt: Total Dominating Vertices = 33085.0, Solve Time = 0.0255 seconds
+Problem.dat_46.txt: Total Dominating Vertices = 27583.0, Solve Time = 0.0070 seconds
+Problem.dat_47.txt: Total Dominating Vertices = 12492.0, Solve Time = 0.5912 seconds
+Problem.dat_48.txt: Total Dominating Vertices = 3665.0, Solve Time = 4.4696 seconds
+Problem.dat_49.txt: Total Dominating Vertices = 1317.0, Solve Time = 2.4004 seconds
+Problem.dat_5.txt: Total Dominating Vertices = 14.0, Solve Time = 0.0030 seconds
+Problem.dat_50.txt: Total Dominating Vertices = 41265.0, Solve Time = 0.0519 seconds
+Problem.dat_51.txt: Total Dominating Vertices = 6105.0, Solve Time = 1.7131 seconds
+Problem.dat_52.txt: Total Dominating Vertices = 2243.0, Solve Time = 17.9501 seconds
+Problem.dat_53.txt: Total Dominating Vertices = 1288.0, Solve Time = 35.9482 seconds
+Problem.dat_54.txt: Total Dominating Vertices = 823.0, Solve Time = 3.1384 seconds
+Problem.dat_6.txt: Total Dominating Vertices = 9.0, Solve Time = 0.0020 seconds
+Problem.dat_7.txt: Total Dominating Vertices = 2161.0, Solve Time = 0.0010 seconds
+Problem.dat_8.txt: Total Dominating Vertices = 775.0, Solve Time = 0.0020 seconds
+Problem.dat_9.txt: Total Dominating Vertices = 354.0, Solve Time = 0.0250 seconds
+
+Problem.dat_1.txt: Error - Weight array not found in the file.
+Problem.dat_10.txt: Error - Weight array not found in the file.
+Problem.dat_11.txt: Error - Weight array not found in the file.
+Problem.dat_12.txt: Error - Weight array not found in the file.
+Problem.dat_13.txt: Error - Weight array not found in the file.
+Problem.dat_14.txt: Error - Weight array not found in the file.
+Problem.dat_15.txt: Error - Weight array not found in the file.
+Problem.dat_16.txt: Error - Weight array not found in the file.
+Problem.dat_17.txt: Error - Weight array not found in the file.
+Problem.dat_18.txt: Error - Weight array not found in the file.
+Problem.dat_19.txt: Error - Weight array not found in the file.
+Problem.dat_2.txt: Error - Weight array not found in the file.
+Problem.dat_20.txt: Error - Weight array not found in the file.
+Problem.dat_21.txt: Error - Weight array not found in the file.
+Problem.dat_22.txt: Error - Weight array not found in the file.
+Problem.dat_23.txt: Error - Weight array not found in the file.
+Problem.dat_24.txt: Error - Weight array not found in the file.
+Problem.dat_25.txt: Error - Weight array not found in the file.
+Problem.dat_26.txt: Error - Weight array not found in the file.
+Problem.dat_27.txt: Error - Weight array not found in the file.
+Problem.dat_28.txt: Error - Weight array not found in the file.
+Problem.dat_29.txt: Error - Weight array not found in the file.
+Problem.dat_3.txt: Error - Weight array not found in the file.
+Problem.dat_30.txt: Error - Weight array not found in the file.
+Problem.dat_31.txt: Error - Weight array not found in the file.
+Problem.dat_32.txt: Error - Weight array not found in the file.
+Problem.dat_33.txt: Error - Weight array not found in the file.
+Problem.dat_34.txt: Error - Weight array not found in the file.
+Problem.dat_35.txt: Error - Weight array not found in the file.
+Problem.dat_36.txt: Error - Weight array not found in the file.
+Problem.dat_37.txt: Error - Weight array not found in the file.
+Problem.dat_38.txt: Error - Weight array not found in the file.
+Problem.dat_39.txt: Error - Weight array not found in the file.
+Problem.dat_4.txt: Error - Weight array not found in the file.
+Problem.dat_40.txt: Error - Weight array not found in the file.
+Problem.dat_41.txt: Error - Weight array not found in the file.
+Problem.dat_42.txt: Error - Weight array not found in the file.
+Problem.dat_43.txt: Error - Weight array not found in the file.
+Problem.dat_44.txt: Error - Weight array not found in the file.
+Problem.dat_45.txt: Error - Weight array not found in the file.
+Problem.dat_46.txt: Error - Weight array not found in the file.
+Problem.dat_47.txt: Error - Weight array not found in the file.
+Problem.dat_48.txt: Error - Weight array not found in the file.
+Problem.dat_49.txt: Error - Weight array not found in the file.
+Problem.dat_5.txt: Error - Weight array not found in the file.
+Problem.dat_50.txt: Error - Weight array not found in the file.
+Problem.dat_51.txt: Error - Weight array not found in the file.
+Problem.dat_52.txt: Error - Weight array not found in the file.
+Problem.dat_53.txt: Error - Weight array not found in the file.
+Problem.dat_54.txt: Error - Weight array not found in the file.
+Problem.dat_6.txt: Error - Weight array not found in the file.
+Problem.dat_7.txt: Error - Weight array not found in the file.
+Problem.dat_8.txt: Error - Weight array not found in the file.
+Problem.dat_9.txt: Error - Weight array not found in the file.
+Problem.dat_1.txt: Error - Weight array not found in the file.
+Problem.dat_10.txt: Error - Weight array not found in the file.
+Problem.dat_11.txt: Error - Weight array not found in the file.
+Problem.dat_12.txt: Error - Weight array not found in the file.
+Problem.dat_13.txt: Error - Weight array not found in the file.
+Problem.dat_14.txt: Error - Weight array not found in the file.
+Problem.dat_15.txt: Error - Weight array not found in the file.
+Problem.dat_16.txt: Error - Weight array not found in the file.
+Problem.dat_17.txt: Error - Weight array not found in the file.
+Problem.dat_18.txt: Error - Weight array not found in the file.
+Problem.dat_19.txt: Error - Weight array not found in the file.
+Problem.dat_2.txt: Error - Weight array not found in the file.
+Problem.dat_20.txt: Error - Weight array not found in the file.
+Problem.dat_21.txt: Error - Weight array not found in the file.
+Problem.dat_22.txt: Error - Weight array not found in the file.
+Problem.dat_23.txt: Error - Weight array not found in the file.
+Problem.dat_24.txt: Error - Weight array not found in the file.
+Problem.dat_25.txt: Error - Weight array not found in the file.
+Problem.dat_26.txt: Error - Weight array not found in the file.
+Problem.dat_27.txt: Error - Weight array not found in the file.
+Problem.dat_28.txt: Error - Weight array not found in the file.
+Problem.dat_29.txt: Error - Weight array not found in the file.
+Problem.dat_3.txt: Error - Weight array not found in the file.
+Problem.dat_30.txt: Error - Weight array not found in the file.
+Problem.dat_31.txt: Error - Weight array not found in the file.
+Problem.dat_32.txt: Error - Weight array not found in the file.
+Problem.dat_33.txt: Error - Weight array not found in the file.
+Problem.dat_34.txt: Error - Weight array not found in the file.
+Problem.dat_35.txt: Error - Weight array not found in the file.
+Problem.dat_36.txt: Error - Weight array not found in the file.
+Problem.dat_37.txt: Error - Weight array not found in the file.
+Problem.dat_38.txt: Error - Weight array not found in the file.
+Problem.dat_39.txt: Error - Weight array not found in the file.
+Problem.dat_4.txt: Error - Weight array not found in the file.
+Problem.dat_40.txt: Error - Weight array not found in the file.
+Problem.dat_41.txt: Error - Weight array not found in the file.
+Problem.dat_42.txt: Error - Weight array not found in the file.
+Problem.dat_43.txt: Error - Weight array not found in the file.
+Problem.dat_44.txt: Error - Weight array not found in the file.
+Problem.dat_45.txt: Error - Weight array not found in the file.
+Problem.dat_46.txt: Error - Weight array not found in the file.
+Problem.dat_47.txt: Error - Weight array not found in the file.
+Problem.dat_48.txt: Error - Weight array not found in the file.
+Problem.dat_49.txt: Error - Weight array not found in the file.
+Problem.dat_5.txt: Error - Weight array not found in the file.
+Problem.dat_50.txt: Error - Weight array not found in the file.
+Problem.dat_51.txt: Error - Weight array not found in the file.
+Problem.dat_52.txt: Error - Weight array not found in the file.
+Problem.dat_53.txt: Error - Weight array not found in the file.
+Problem.dat_54.txt: Error - Weight array not found in the file.
+Problem.dat_6.txt: Error - Weight array not found in the file.
+Problem.dat_7.txt: Error - Weight array not found in the file.
+Problem.dat_8.txt: Error - Weight array not found in the file.
+Problem.dat_9.txt: Error - Weight array not found in the file.
